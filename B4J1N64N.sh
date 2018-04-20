@@ -775,6 +775,7 @@ chmod +x metasploitTechzindia.sh
 ./metasploitTechzindia.sh
 cd metasploit
 ./msfconsole
+fi
 
 if [ $bro = 0 ] || [ $bro = 0 ]
 then
