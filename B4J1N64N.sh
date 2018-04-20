@@ -12,7 +12,7 @@ echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 toilet -f standard -F gay "ToolsB4j1n64n3"
 echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*="
 echo ""              
-echo "Author : " Mr.B4J1N64N====>Noob Lamer"
+echo "Author : " Mr.B4J1N64N"
 " Team : " DARKNESS CYBER TEAM"
 echo " Kontak Me :  083108271123"
 sleep 1
